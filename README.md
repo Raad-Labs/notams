@@ -1,4 +1,4 @@
-# FaaNotams
+#  Notice to Airmen (NOTAM) API Ruby Gem
 
 A Ruby gem for interacting with the FAA's Notice to Airmen (NOTAM) API.
 
